@@ -1,5 +1,9 @@
 # Changelog
 
+## [v4.1.0] – 2025-xx-xx
+
+- HEEx: support new code embed syntax with curly braces.
+
 ## [v4.0.0] – 2024-09-01
 
 - Elixir: improved matching of right-arrow clauses.
